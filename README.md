@@ -6,4 +6,4 @@ Pour jouer au jeu compiler avec la règle make ou make bonus du Makefile et lanc
 
 Votre but récuper les cristaux et vous échapper en moins de mouvemts possible
 
-Le bonus rajoute la gestion d'enemie, l'affichage des mouvements et collectibles restant dans la fenêtre ainsi que la gestion de skin pour le personnage en ajoutant un chiffre de 1 a 6 au lancement de l'executable ./so_long_bonus
+Les bonus rajoutent la gestion d'enemie, l'affichage des mouvements et collectibles restant dans la fenêtre ainsi que la gestion de skin pour le personnage en ajoutant un chiffre de 1 a 6 au lancement de l'executable ./so_long_bonus
